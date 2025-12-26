@@ -1,6 +1,6 @@
 # Matter-Originated Spacetime Gradient Model (MOSGM)
 
-**Author:** Tarun Saxena  
+**Author:** Tarun Kumar Saxena  
 **Affiliation:** Independent Researcher, India  
 
 ## Overview
