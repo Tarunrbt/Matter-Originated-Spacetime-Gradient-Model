@@ -3,6 +3,8 @@
 **Author:** Tarun Kumar Saxena  
 **Affiliation:** Independent Researcher, India  
 
+License: MIT
+
 ## Overview
 The Matter-Originated Spacetime Gradient Model (MOSGM) is a phenomenological gravity framework proposing that spacetime properties do not exist independently of matter. Instead, spacetime gradients emerge from large-scale matter distributions and induce small, environment-dependent corrections to standard gravitational dynamics.
 
